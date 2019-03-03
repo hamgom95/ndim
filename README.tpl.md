@@ -1,7 +1,7 @@
-# @hamgom95/ndim
+## @hamgom95/ndim
 
 Create multidimensional arrays.
 
-## API Documentation
+### API Documentation
 
 {{>main}}

@@ -1,12 +1,12 @@
-# @hamgom95/ndim
+## @hamgom95/ndim
 
 Create multidimensional arrays.
 
-## API Documentation
+### API Documentation
 
 <a name="ndim"></a>
 
-### ndim([dims], [filler], [createContainer])
+#### ndim([dims], [filler], [createContainer])
 Create multi-dimensional array from index specifying array and fill using callback.
 
 **Kind**: global function  
